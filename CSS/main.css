@@ -47,7 +47,6 @@ header {
      background-size: 39px;
  }
   h1::after {
-
     content: "";
     margin-top: 5px;
     position: absolute;
