@@ -17,7 +17,7 @@ body {
     background-image: url(../CSS/avatar.png), url(../CSS/alien.png), url(../CSS/saturn.png), url(../CSS/Star.svg);
     background-repeat: no-repeat;
     background-position-x: 220px, 730px, 610px, 50px;
-    background-position-y: 150px, 325px, 85px, 50px;
+    background-position-y: 150px, 235px, 0px, 50px;
     background-size: 350px, 50px, 50px, 50px;
   }
 header {
