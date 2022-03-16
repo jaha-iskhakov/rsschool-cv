@@ -11,6 +11,7 @@
 * CSS
 * JavaScript (Basic)
 * Git
+* C++
 
 ## ***Code Examle***
 ```
