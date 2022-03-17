@@ -14,7 +14,7 @@ body {
     max-width: 900px;
   }
   main{ 
-    background-image: url(../CSS/avatar.png), url(../CSS/alien.png), url(../CSS/saturn.png), url(../CSS/Star.svg);
+    background-image: url(./CSS/avatar.png), url(./CSS/alien.png), url(./CSS/saturn.png), url(./CSS/Star.svg);
     background-repeat: no-repeat;
     background-position-x: 220px, 730px, 610px, 50px;
     background-position-y: 150px, 235px, 0px, 50px;
@@ -40,7 +40,7 @@ header {
      font-size: 48pt;
      letter-spacing: -2px;
      font-family: Barlow Condensed;
-     background-image: url(../CSS/moon.png);
+     background-image: url(./CSS/moon.png);
      background-repeat: no-repeat;
      background-position-x: 18px;
      background-position-y: 17px;
